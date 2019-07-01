@@ -2,3 +2,4 @@ venv
 .idea
 test
 train_data
+results
